@@ -1,2 +1,2 @@
 # Gittest
-print('hello')
+hi
